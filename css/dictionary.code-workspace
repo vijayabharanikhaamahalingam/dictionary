@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../weather-country"
+		},
+		{
+			"path": "../../cat info"
+		},
+		{
+			"path": "../../anime info"
+		}
+	],
+	"settings": {}
+}
